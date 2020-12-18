@@ -5,3 +5,9 @@ I am too
 
 two more
 lines
+
+new content
+and here
+
+revert
+revert
